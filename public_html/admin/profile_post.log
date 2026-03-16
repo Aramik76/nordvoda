@@ -1,0 +1,32 @@
+Array
+(
+    [csrf_token] => 46d461dd8e0e11eb79b7b18d989069420ad8776d22527c7621f8c15f81574c29
+    [action] => profile
+    [username] => admin
+    [email] => admin@burservice.ru
+    [full_name] => Главный администратор1
+)
+Array
+(
+    [csrf_token] => 46d461dd8e0e11eb79b7b18d989069420ad8776d22527c7621f8c15f81574c29
+    [action] => profile
+    [username] => admin
+    [email] => admin@burservice.ru
+    [full_name] => Главный администратор
+)
+Array
+(
+    [csrf_token] => 46d461dd8e0e11eb79b7b18d989069420ad8776d22527c7621f8c15f81574c29
+    [action] => profile
+    [username] => admin1
+    [email] => admin1@burservice.ru
+    [full_name] => Главный администратор1
+)
+Array
+(
+    [csrf_token] => 46d461dd8e0e11eb79b7b18d989069420ad8776d22527c7621f8c15f81574c29
+    [action] => profile
+    [username] => admin
+    [email] => admin@burservice.ru
+    [full_name] => администратор
+)

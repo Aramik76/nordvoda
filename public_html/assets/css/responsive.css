@@ -1,0 +1,273 @@
+/* ==============================================
+   responsive.css - Адаптация для больших экранов
+   ============================================== */
+
+/* Маленькие планшеты и большие телефоны (горизонтальная ориентация) */
+
+
+
+@media (max-width: 768px) {
+    #company-map,
+    .contact-map .ymaps3x0--map {
+        height: 250px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    #company-map,
+    .contact-map .ymaps3x0--map {
+        height: 200px !important;
+    }
+}
+
+@media (min-width: 640px) {
+    :root {
+        --container-padding: 24px;
+    }
+
+    .hero-title {
+        font-size: 2.25rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.375rem;
+    }
+
+    .btn {
+        width: auto;
+        min-width: 200px;
+    }
+
+    .services-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .service-image,
+    .service-icon-wrapper {
+        height: 180px; /* чуть меньше на планшетах? Можно оставить 200, но для единообразия оставим 200 */
+    }
+
+    /* Показываем полный телефон, соцсети и кнопку обратного звонка */
+    .mobile-phone-icon {
+        display: none;
+    }
+
+    .header-phone-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .header-social {
+        display: flex;
+    }
+
+    .btn-callback {
+        display: inline-flex;
+    }
+}
+
+/* Планшеты */
+@media (min-width: 768px) {
+    :root {
+        --container-padding: 32px;
+    }
+
+    .hero {
+        padding: 60px 0;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.5rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 25px;
+    }
+
+    .service-image,
+    .service-icon-wrapper {
+        height: 200px; /* возвращаем 200px */
+    }
+
+    .about-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+        align-items: center;
+    }
+
+    .about-content {
+        text-align: left;
+    }
+
+    .contact-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+    }
+
+    .footer-grid {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        gap: 40px;
+    }
+
+    .footer-bottom {
+        font-size: 0.9rem;
+    }
+
+    .header-phone {
+        font-size: 1.3rem;
+    }
+    .btn-callback {
+        font-size: 1rem;
+        padding: 8px 20px;
+    }
+}
+
+/* Десктопы */
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1200px;
+    }
+
+    .nav-menu {
+        display: block;
+    }
+
+    .mobile-menu-toggle,
+    .mobile-menu,
+    .overlay {
+        display: none;
+    }
+
+    .header-wrapper {
+        padding: 15px 0; /* чуть больше на десктопе, но можно оставить 8px */
+    }
+
+    .logo-image {
+        height: 50px; /* логотип может быть крупнее */
+    }
+
+    .logo-text {
+        font-size: 1.25rem;
+    }
+
+    .hero {
+        padding: 80px 0;
+    }
+
+    .hero-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .hero-content {
+        text-align: left;
+    }
+
+    .hero-title {
+        font-size: 3rem;
+    }
+
+    .hero-description {
+        font-size: 1.125rem;
+    }
+
+    .hero-image img {
+        max-width: 100%;
+    }
+
+    .services-grid {
+        gap: 30px;
+    }
+
+    .about {
+        padding: 80px 0;
+    }
+
+    .contact {
+        padding: 80px 0;
+    }
+
+    .form-card {
+        padding: 40px;
+    }
+
+    .footer {
+        padding: 60px 0 30px;
+    }
+
+    .footer-grid {
+        gap: 50px;
+        margin-bottom: 40px;
+    }
+
+    .desktop-only {
+        display: block;
+    }
+
+    .header-phone {
+        font-size: 1.4rem;
+    }
+    .btn-callback {
+        font-size: 1rem;
+        padding: 10px 24px;
+    }
+}
+
+/* Широкие экраны */
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1280px;
+    }
+
+    .hero-title {
+        font-size: 3.25rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.75rem;
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .section-title {
+        font-size: 2.25rem;
+    }
+
+    .header-phone {
+        font-size: 1.5rem;
+    }
+}
+
+/* Очень большие экраны */
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1440px;
+    }
+
+    .hero-title {
+        font-size: 3.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.875rem;
+    }
+}

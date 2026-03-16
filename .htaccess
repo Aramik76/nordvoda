@@ -1,0 +1,43 @@
+# ==============================================
+# .htaccess - Корневой файл конфигурации
+# ==============================================
+
+# Защита от просмотра директорий
+Options -Indexes
+
+# Защита системных файлов
+<FilesMatch "^(install\.php|\.htaccess|\.git|composer\.json|composer\.lock|README\.md)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Защита конфигурационных файлов
+<FilesMatch "\.(sql|log|ini|bak|config)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Защита скрытых файлов
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Перенаправление с www на без www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+# Перенаправление на HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# Установка временной зоны
+SetEnv TZ Europe/Moscow
+
+# Лимиты на загрузку файлов
+php_value upload_max_filesize 50M
+php_value post_max_size 50M
+php_value max_execution_time 300
+php_value max_input_time 300
+php_value memory_limit 256M

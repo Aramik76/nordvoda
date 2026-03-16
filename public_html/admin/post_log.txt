@@ -1,0 +1,472 @@
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => center
+    [setting_watermark_padding] => 20
+    [setting_watermark_opacity] => 30
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => center
+    [setting_watermark_padding] => 20
+    [setting_watermark_opacity] => 30
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => center
+    [setting_watermark_padding] => 20
+    [setting_watermark_opacity] => 30
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => bottom_right
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 50
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => center
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 50
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => bottom_left
+    [setting_watermark_padding] => 30
+    [setting_watermark_opacity] => 50
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => bottom_left
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 50
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => bottom_left
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 50
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => bottom_left
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 80
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => center
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 20
+)
+Array
+(
+)
+Array
+(
+    [csrf_token] => d4a8201600c84c571dface74524be4be84bf8e02858b3d5604d348b6430a0e45
+    [setting_site_name] => Норд-вода
+    [setting_site_logo] => /uploads/images/699445e775c21_1771324903.png
+    [setting_site_favicon] => /assets/img/favicon.png
+    [setting_site_description] => Профессиональное бурение скважин на воду. Работаем по всей области.
+    [setting_site_keywords] => бурение скважин, вода на участке, скважина под ключ
+    [setting_hero_title] => Бурение скважин на воду
+    [setting_hero_subtitle] => от 1500 руб/метр
+    [setting_hero_description] => Быстро, качественно, с гарантией до 5 лет
+    [setting_hero_button_text] => Заказать звонок
+    [setting_hero_button_link] => #contact
+    [setting_services_subtitle] => Что мы предлагаем
+    [setting_services_title] => Наши услуги по бурению
+    [setting_about_title] => О компании
+    [setting_about_text] => <p>Мы работаем с 2010 года. За это время пробурили более 500 скважин.</p><p>Используем современное оборудование и даем гарантию на все работы.</p>
+    [setting_about_image] => /assets/img/about.jpg
+    [setting_contact_phone] => +7 (999) 123-45-67
+    [setting_contact_phone_2] => +7 (999) 765-43-21
+    [setting_contact_email] => info@burservice.ru
+    [setting_contact_address] => г. Москва
+    [setting_work_hours] => Ежедневно: 9:00-20:00
+    [setting_social_vk] => https://vk.com/burservice
+    [setting_social_telegram] => https://t.me/bureniesmoskownortn
+    [setting_social_whatsapp] => https://wa.me/79991234567
+    [setting_social_instagram] => 
+    [setting_footer_text] => © 2026 Норд-вода. Все права защищены.
+    [setting_footer_description] => Профессиональное бурение скважин любой сложности
+    [setting_form_title] => Оставить заявку
+    [setting_form_subtitle] => Заполните форму и мы свяжемся с вами
+    [setting_telegram_bot_token] => 8488573444:AAEX4wtnaRazuVtBNTbN_sEg_frPXH3SxUY
+    [setting_telegram_chat_id] => -5193090930
+    [setting_watermark_action] => copy
+    [setting_watermark_position] => center
+    [setting_watermark_padding] => 10
+    [setting_watermark_opacity] => 90
+)
+Array
+(
+)
+Array
+(
+)

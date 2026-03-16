@@ -1,0 +1,21 @@
+# ==============================================
+# robots.txt - Для поисковых систем
+# ==============================================
+
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /assets/
+Disallow: /install.php
+Disallow: /*?*
+Disallow: /404.php
+Disallow: /403.php
+Disallow: /500.php
+
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+Allow: /uploads/images/
+
+Host: https://%{HTTP_HOST}
+Sitemap: https://%{HTTP_HOST}/sitemap.xml
